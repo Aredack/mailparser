@@ -1,6 +1,6 @@
 {
-    "name": "mailparser",
-    "version": "2.2.0",
+    "name": "fixed-mailparser",
+    "version": "2.3.0",
     "description": "Parse e-mails",
     "main": "index.js",
     "scripts": {
@@ -33,9 +33,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/andris9/mailparser.git"
+        "url": "https://github.com/Aredack/mailparser.git"
     },
     "bugs": {
-        "url": "https://github.com/andris9/mailparser/issues"
+        "url": "https://github.com/Aredack/mailparser/pulls"
     }
 }
