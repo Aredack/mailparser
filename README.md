@@ -1,7 +1,5 @@
 # NB! This project fix all tests of deprecated mailparser from now (2018/06/05)
 
-All users of this project are urged to find an alternative as it is not maintained anymore. Read more [here](https://blog.nodemailer.com/2018/03/11/spring-cleaning/)
-
 # mailparser
 
 ![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)

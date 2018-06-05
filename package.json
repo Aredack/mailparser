@@ -1,12 +1,12 @@
 {
-    "name": "fixed-mailparser",
-    "version": "2.3.0",
+    "name": "mailparser2",
+    "version": "1.0.0",
     "description": "Parse e-mails",
     "main": "index.js",
     "scripts": {
         "test": "grunt"
     },
-    "author": "Andris Reinman",
+    "author": "Jonathan Czorny",
     "license": "EUPL-1.1+",
     "dependencies": {
         "addressparser": "1.0.1",
@@ -33,9 +33,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Aredack/mailparser.git"
+        "url": "https://github.com/Aredack/mailparser2.git"
     },
     "bugs": {
-        "url": "https://github.com/Aredack/mailparser/pulls"
+        "url": "https://github.com/Aredack/mailparser2/pulls"
     }
 }
